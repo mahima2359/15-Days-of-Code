@@ -45,6 +45,17 @@ Note: What I have thought is that the code iterates through both sorted arrays l
 Solution link:https://www.geeksforgeeks.org/problems/row-with-minimum-number-of-1s5430/1
 Note:What I have thought is that the code counts the number of 1’s in each row of the matrix, keeps track of the row with the minimum count, and finally returns the index (1-based) of the row that contains the fewest 1’s.
 
+#Day 3(15/10/2025)
+-->Question 1. Remove outermost parentheses(strings)
+solution link: https://leetcode.com/submissions/detail/1802632489/
+-->Question 2. Reverese word in a string 
+solution link: https://leetcode.com/submissions/detail/1802669632/
+-->Question 3.Largest odd number in a string
+solution link:https://leetcode.com/submissions/detail/1802695930/
+-->question4. Longest Common Prefix 
+Solution Link:https://leetcode.com/submissions/detail/1802731474/
+-->Question5. Isomorphic strings
+solution link :https://leetcode.com/submissions/detail/1802788148/
 
    
 
