@@ -57,6 +57,22 @@ Solution Link:https://leetcode.com/submissions/detail/1802731474/
 -->Question5. Isomorphic strings
 solution link :https://leetcode.com/submissions/detail/1802788148/
 
+#day 4(17/10/2025)
+-->Question 1 Check whether one string is rotation of another
+solution link: https://www.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1
+-->Question2 Count substrings
+solution link:https://www.geeksforgeeks.org/problems/count-substring/1
+-->Question3 Valid Anagram
+solution link:https://leetcode.com/submissions/detail/1803942828/
+-->question 4 Sort characters by frequency
+solution link: https://leetcode.com/submissions/detail/1804007343/
+-->question 5 Maximum nesting depth of the parentheses
+Solution link: https://leetcode.com/submissions/detail/1804201454/
+-->Question 6 Roman to integer
+solution link :https://leetcode.com/submissions/detail/1804239029/
+-->Question 7 String to integer
+solution link : https://leetcode.com/submissions/detail/1804359591/
+
    
 
 
