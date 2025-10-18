@@ -73,6 +73,18 @@ solution link :https://leetcode.com/submissions/detail/1804239029/
 -->Question 7 String to integer
 solution link : https://leetcode.com/submissions/detail/1804359591/
 
+#day 5(18/10/2025)
+Question 1 Middle of the linked list
+Solution link :https://leetcode.com/submissions/detail/1804695026/
+Question 2 Reverse Linked list 
+solution link :https://leetcode.com/submissions/detail/1804753108/
+Question 3 Linked list cycle 
+solution link :https://leetcode.com/submissions/detail/1804767745/
+Question 4 Linked list cycle II
+solution link :https://leetcode.com/submissions/detail/1804774753/'
+Question 5 Palindrome linked list 
+solution link :https://leetcode.com/submissions/detail/1805152370/
+
    
 
 
