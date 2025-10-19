@@ -85,6 +85,20 @@ solution link :https://leetcode.com/submissions/detail/1804774753/'
 Question 5 Palindrome linked list 
 solution link :https://leetcode.com/submissions/detail/1805152370/
 
+#day 6(19/10/2025)
+Question1 Odd even linked list 
+solution link :https://leetcode.com/submissions/detail/1805278361/
+Question 2 Remove nth node from end of linked list 
+soltuion  link : https://leetcode.com/submissions/detail/1805287072/
+Question 3 Smallest missing multiple of k 
+solution link :https://leetcode.com/contest/weekly-contest-472/submissions/detail/1805515194/
+Question 4 Longest balanced subarray I
+solution link :https://leetcode.com/contest/weekly-contest-472/submissions/detail/1805541820/
+Question 5 delete the middle node of linked list
+solution link: https://leetcode.com/submissions/detail/1805595079/
+Question 6 sort list
+solution link :https://leetcode.com/submissions/detail/1805667570/
+
    
 
 
