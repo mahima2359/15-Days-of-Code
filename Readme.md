@@ -99,6 +99,19 @@ solution link: https://leetcode.com/submissions/detail/1805595079/
 Question 6 sort list
 solution link :https://leetcode.com/submissions/detail/1805667570/
 
+#day7(21/10/2025)
+question 1 Sort a ll of 0's , 1's and 2's
+solution link : https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1
+question 2 find intersection point of y ll
+solution link :https://leetcode.com/submissions/detail/1807436675/
+question 3 add 1 to a number represented by ll
+solution link :https://leetcode.com/submissions/detail/1807581451/
+question 4 delete all occurances of key in dll
+soltuion link: https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1
+question 5 find pairs of given sum 
+solution link : https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1
+question 6 Remove duplicates from sorted doubly ll 
+solution link: https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1
    
 
 
