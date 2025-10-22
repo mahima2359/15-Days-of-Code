@@ -112,6 +112,20 @@ question 5 find pairs of given sum
 solution link : https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1
 question 6 Remove duplicates from sorted doubly ll 
 solution link: https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1
+
+#day8(22/10/2025)
+question 1 Reverse LL in group of given size k
+solution link: https://leetcode.com/submissions/detail/1807906201/
+question 2 Rotate a ll
+solution link :https://leetcode.com/submissions/detail/1808279126/
+question 3 Flattening a LL
+solution link : https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1
+question 4 Copy list with random pointer
+solution link : https://leetcode.com/submissions/detail/1808738523/
+question 5 pow(x,n)
+solution link : https://leetcode.com/submissions/detail/1808773583/
+question 6 Count good numbers
+solution link : https://leetcode.com/submissions/detail/1808809050/
    
 
 
