@@ -126,6 +126,19 @@ question 5 pow(x,n)
 solution link : https://leetcode.com/submissions/detail/1808773583/
 question 6 Count good numbers
 solution link : https://leetcode.com/submissions/detail/1808809050/
+
+#day9(23/10/2025)
+question 1 sort a stack using recursion 
+solution link : https://www.geeksforgeeks.org/problems/sort-a-stack/1
+question2 reverse a stack using recursion 
+solution link :https://www.geeksforgeeks.org/problems/reverse-a-stack/1
+question 3 generate parentheses
+solution link : https://leetcode.com/submissions/detail/1809341206/
+question 4 subsets 
+solution link :https://leetcode.com/submissions/detail/1809378990/
+question 5 Combination sum 
+solution link : https://leetcode.com/submissions/detail/1809503018/
+
    
 
 
