@@ -139,7 +139,11 @@ solution link :https://leetcode.com/submissions/detail/1809378990/
 question 5 Combination sum 
 solution link : https://leetcode.com/submissions/detail/1809503018/
 
-   
+#day10 
+question 1 combination Sum II
+solution link : https://leetcode.com/submissions/detail/1810554117/
+question 2 Palindrome partitioning
+solution link: https://leetcode.com/submissions/detail/1810553010/
 
 
 
