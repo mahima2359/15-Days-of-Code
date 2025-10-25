@@ -145,6 +145,13 @@ solution link : https://leetcode.com/submissions/detail/1810554117/
 question 2 Palindrome partitioning
 solution link: https://leetcode.com/submissions/detail/1810553010/
 
+#day 11
+question 1 word Search 
+solution link :https://leetcode.com/submissions/detail/1811085588/
+question 2 Lexicographically Smallest String After Reverse
+solution link : https://leetcode.com/contest/biweekly-contest-168/submissions/detail/1811309484/
+question 3  Maximize Sum of Squares of Digits
+solution link : https://leetcode.com/contest/biweekly-contest-168/submissions/detail/1811362638/
 
 
     
