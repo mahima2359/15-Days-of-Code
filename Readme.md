@@ -153,5 +153,13 @@ solution link : https://leetcode.com/contest/biweekly-contest-168/submissions/de
 question 3  Maximize Sum of Squares of Digits
 solution link : https://leetcode.com/contest/biweekly-contest-168/submissions/detail/1811362638/
 
+#day 12
+question 1 N queens
+solution link : https://leetcode.com/submissions/detail/1812025521/
+question 2 minimum bits flip to convert 
+solution link : https://leetcode.com/submissions/detail/1812295931/
+question 3 Two odd occuring 
+solution link : https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1
+
 
     
