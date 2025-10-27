@@ -161,5 +161,9 @@ solution link : https://leetcode.com/submissions/detail/1812295931/
 question 3 Two odd occuring 
 solution link : https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1
 
+#day 13
+question 1 Divide 2 integers
+solution link : https://leetcode.com/submissions/detail/1813174767/
+
 
     
