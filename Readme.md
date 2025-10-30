@@ -165,5 +165,15 @@ solution link : https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occu
 question 1 Divide 2 integers
 solution link : https://leetcode.com/submissions/detail/1813174767/
 
+#day 14
+question 1 count prime in range of L to R
+solution link : https://www.geeksforgeeks.org/problems/count-primes-in-range1604/1
+question 2 stack using ll
+solution link : https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1
+question 3 queue using ll
+solution link : https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1
+question 4 implement stack using queue
+solution link : https://leetcode.com/submissions/detail/1816250059/
+
 
     
