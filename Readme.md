@@ -175,5 +175,14 @@ solution link : https://www.geeksforgeeks.org/problems/implement-queue-using-lin
 question 4 implement stack using queue
 solution link : https://leetcode.com/submissions/detail/1816250059/
 
-
+#day15
+question 1 infix to postfix conversion
+solution link : https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1
+question 2 infix to prefix notation 
+solution link : https://www.geeksforgeeks.org/problems/infix-to-prefix-notation/1
+question 3 postfix to infix conversion 
+solution link ; https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1
+question 4 next greater element I
+solution link : https://leetcode.com/submissions/detail/1816822034/
+question 5
     
