@@ -31,7 +31,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    solution link: https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1
    NOTE: I solved it using binary search on answers. I searched for the minimum time required by checking each middle value as a possible limit. For each mid, I calculated how many workers would be needed if no     one exceeded that time. If it was possible within k workers, I tried a smaller limit; otherwise I increased it.
 
-#Day 2(14/10/2025)
+# Day 2(14/10/2025)
 -->QUESTION 1. Minimize max distance to gas stations(gfg)
 Soulution link:https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1
 Note: i solved it by first calculating  the gaps between consecutive stations and stores them in a max-heap It then repeatedly takes the largest gap, adds a new station to split it, updates the gap’s new distance, and pushes it back into the heap. After placing all K stations, the largest value remaining in the heap represents the minimized maximum distance between any two stations.
@@ -45,7 +45,7 @@ Note: What I have thought is that the code iterates through both sorted arrays l
 Solution link:https://www.geeksforgeeks.org/problems/row-with-minimum-number-of-1s5430/1
 Note:What I have thought is that the code counts the number of 1’s in each row of the matrix, keeps track of the row with the minimum count, and finally returns the index (1-based) of the row that contains the fewest 1’s.
 
-#Day 3(15/10/2025)
+# Day 3(15/10/2025)
 -->Question 1. Remove outermost parentheses(strings)
 solution link: https://leetcode.com/submissions/detail/1802632489/
 -->Question 2. Reverese word in a string 
@@ -57,7 +57,7 @@ Solution Link:https://leetcode.com/submissions/detail/1802731474/
 -->Question5. Isomorphic strings
 solution link :https://leetcode.com/submissions/detail/1802788148/
 
-#day 4(17/10/2025)
+# Day 4(17/10/2025)
 -->Question 1 Check whether one string is rotation of another
 solution link: https://www.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1
 -->Question2 Count substrings
@@ -73,7 +73,7 @@ solution link :https://leetcode.com/submissions/detail/1804239029/
 -->Question 7 String to integer
 solution link : https://leetcode.com/submissions/detail/1804359591/
 
-#day 5(18/10/2025)
+# Day 5(18/10/2025)
 Question 1 Middle of the linked list
 Solution link :https://leetcode.com/submissions/detail/1804695026/
 Question 2 Reverse Linked list 
@@ -85,7 +85,7 @@ solution link :https://leetcode.com/submissions/detail/1804774753/'
 Question 5 Palindrome linked list 
 solution link :https://leetcode.com/submissions/detail/1805152370/
 
-#day 6(19/10/2025)
+# Day 6(19/10/2025)
 Question1 Odd even linked list 
 solution link :https://leetcode.com/submissions/detail/1805278361/
 Question 2 Remove nth node from end of linked list 
@@ -99,7 +99,7 @@ solution link: https://leetcode.com/submissions/detail/1805595079/
 Question 6 sort list
 solution link :https://leetcode.com/submissions/detail/1805667570/
 
-#day7(21/10/2025)
+# Day7(21/10/2025)
 question 1 Sort a ll of 0's , 1's and 2's
 solution link : https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1
 question 2 find intersection point of y ll
@@ -113,7 +113,7 @@ solution link : https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum
 question 6 Remove duplicates from sorted doubly ll 
 solution link: https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1
 
-#day8(22/10/2025)
+# Day8(22/10/2025)
 question 1 Reverse LL in group of given size k
 solution link: https://leetcode.com/submissions/detail/1807906201/
 question 2 Rotate a ll
@@ -127,7 +127,7 @@ solution link : https://leetcode.com/submissions/detail/1808773583/
 question 6 Count good numbers
 solution link : https://leetcode.com/submissions/detail/1808809050/
 
-#day9(23/10/2025)
+# Day9(23/10/2025)
 question 1 sort a stack using recursion 
 solution link : https://www.geeksforgeeks.org/problems/sort-a-stack/1
 question2 reverse a stack using recursion 
@@ -139,13 +139,13 @@ solution link :https://leetcode.com/submissions/detail/1809378990/
 question 5 Combination sum 
 solution link : https://leetcode.com/submissions/detail/1809503018/
 
-#day10 
+# Day 10 
 question 1 combination Sum II
 solution link : https://leetcode.com/submissions/detail/1810554117/
 question 2 Palindrome partitioning
 solution link: https://leetcode.com/submissions/detail/1810553010/
 
-#day 11
+# Day 11
 question 1 word Search 
 solution link :https://leetcode.com/submissions/detail/1811085588/
 question 2 Lexicographically Smallest String After Reverse
@@ -153,7 +153,7 @@ solution link : https://leetcode.com/contest/biweekly-contest-168/submissions/de
 question 3  Maximize Sum of Squares of Digits
 solution link : https://leetcode.com/contest/biweekly-contest-168/submissions/detail/1811362638/
 
-#day 12
+# Day 12
 question 1 N queens
 solution link : https://leetcode.com/submissions/detail/1812025521/
 question 2 minimum bits flip to convert 
@@ -161,11 +161,11 @@ solution link : https://leetcode.com/submissions/detail/1812295931/
 question 3 Two odd occuring 
 solution link : https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1
 
-#day 13
+# Day 13
 question 1 Divide 2 integers
 solution link : https://leetcode.com/submissions/detail/1813174767/
 
-#day 14
+# Day 14
 question 1 count prime in range of L to R
 solution link : https://www.geeksforgeeks.org/problems/count-primes-in-range1604/1
 question 2 stack using ll
@@ -175,7 +175,7 @@ solution link : https://www.geeksforgeeks.org/problems/implement-queue-using-lin
 question 4 implement stack using queue
 solution link : https://leetcode.com/submissions/detail/1816250059/
 
-#day15
+# Day15
 question 1 infix to postfix conversion
 solution link : https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1
 question 2 infix to prefix notation 
